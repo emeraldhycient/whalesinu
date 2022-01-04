@@ -1,0 +1,8 @@
+@media(min-width:760px) {
+    #form_logo {
+        height: 200px;
+        width: 180px;
+    }
+}
+
+@media(max-width:760px) {}
